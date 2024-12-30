@@ -7,11 +7,8 @@ A simple HTTP server from scratch in c# with TCP Protocol. It handles GET reques
 Installation
 Clone the repository and run the project.
 
-bash
-git clone https://github.com/tobitortosa/HTTPServer.git
-cd HTTPServer
-dotnet run
-Will run on http://localhost:4222 (The port can be changed)
+git clone https://github.com/tobitortosa/HTTPServer.git <br/>
+cd HTTPServer <br/>
+dotnet run <br/>
 
-License
-MIT License. See LICENSE for details.
+Will run on http://localhost:4222 (The port can be changed)
