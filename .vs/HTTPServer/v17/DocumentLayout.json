@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\a\\HTTPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|c:\\proyectos\\a\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|c:\\proyectos\\a\\httpserver\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|solutionrelative:httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|c:\\proyectos\\a\\httpserver\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|solutionrelative:request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|c:\\proyectos\\a\\httpserver\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA00847-3FCC-4666-8279-1336833A801A}|HTTPServer.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\a\\HTTPServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Proyectos\\a\\HTTPServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:53:59.751Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Proyectos\\a\\HTTPServer\\Response.cs",
+              "RelativeDocumentMoniker": "Response.cs",
+              "ToolTip": "C:\\Proyectos\\a\\HTTPServer\\Response.cs",
+              "RelativeToolTip": "Response.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAuwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:55:42.356Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTTPServer.cs",
+              "DocumentMoniker": "C:\\Proyectos\\a\\HTTPServer\\HTTPServer.cs",
+              "RelativeDocumentMoniker": "HTTPServer.cs",
+              "ToolTip": "C:\\Proyectos\\a\\HTTPServer\\HTTPServer.cs",
+              "RelativeToolTip": "HTTPServer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:45:02.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Proyectos\\a\\HTTPServer\\Request.cs",
+              "RelativeDocumentMoniker": "Request.cs",
+              "ToolTip": "C:\\Proyectos\\a\\HTTPServer\\Request.cs",
+              "RelativeToolTip": "Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:55:54.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
